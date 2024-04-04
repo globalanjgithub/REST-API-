@@ -1,0 +1,16 @@
+Rest api -json 
+get/user=return the html documentation 
+get/api/user-list all users in json done  
+
+get/api/user/1=get the user with id =1 
+get/api/user/2=geth the user with id 2
+
+DYNAMIC PATH PARAMETER
+GET /api/user/:id 
+:id =dynamic 
+
+post /api/user-to create the new user 
+
+patch/api/user/ -to edit the user with id 1;
+
+delete/api/user -to deletethe user with id 1 
